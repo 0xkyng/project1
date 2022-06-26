@@ -1,0 +1,62 @@
+*{
+   background-color: rgb(118, 118, 202);
+   text-align: left;
+   text-decoration: solid;
+}
+header{
+    font-style: italic;
+    color: red;
+    font-size: xx-large;
+    text-shadow: 3px;
+}
+nav li {
+    list-style: none;
+    
+}
+::placeholder {
+    color: rgb(146, 136, 82);
+
+}
+ input[type=text], input[type=email], input[type=password], input[type=button] {
+    width: 200px;
+    height: 25px;
+    background-color: yellow;
+    border: 2px solid whitesmoke;
+
+ }
+ #textarea {
+    background-color: rgb(173, 173, 105);
+    border: 5px solid turquoise;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
